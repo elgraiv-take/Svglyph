@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Svglyph", "Svglyph\Svglyph.csproj", "{A4CE6B80-60F1-4B7B-ABB8-C6583EF0DEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvglyphCli", "SvglyphCli\SvglyphCli.csproj", "{3840F4A2-EA28-4412-99BA-6E778B046A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4CE6B80-60F1-4B7B-ABB8-C6583EF0DEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CE6B80-60F1-4B7B-ABB8-C6583EF0DEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CE6B80-60F1-4B7B-ABB8-C6583EF0DEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CE6B80-60F1-4B7B-ABB8-C6583EF0DEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3840F4A2-EA28-4412-99BA-6E778B046A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3840F4A2-EA28-4412-99BA-6E778B046A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3840F4A2-EA28-4412-99BA-6E778B046A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3840F4A2-EA28-4412-99BA-6E778B046A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D508E2-4CF4-4B4D-9165-4B4A699FD33E}
+	EndGlobalSection
+EndGlobal
